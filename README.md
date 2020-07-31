@@ -1,1 +1,2 @@
 # tempEngineEmployeeSummary
+This is a functional NODE command line (CLI) software engineering team generator app that takes in information about employees and generates an HTML webpage displaying summaries for each member of staff.  I created codes to ensure that codes are maintainable and all the unit test passed.  I used the Inquirer npm package to prompt user for their email, id, their specific role within company and GitHub username when applicable.  The URL of the GitHUb repository and a video demonstrating app's functionality were submitted.
