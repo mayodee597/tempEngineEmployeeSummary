@@ -1,0 +1,21 @@
+{
+  "name": "ini",
+  "version": "1.0.0",
+  "description": "gety",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^7.3.3",
+    "jest": "^26.1.0",
+    "path": "^0.12.7"
+  }
+}
